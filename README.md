@@ -7,13 +7,13 @@
 
 🛠️ Skills
 
-Languages & Tools: Python, NumPy, Pandas
+Languages & Tools: Python, NumPy, Pandas, Matplotlib, Seaborn
 
-Data Science: Statistics, Feature Engineering,Power BI, Basic ML
+Data Science: Statistics, Feature Engineering,Power BI, Basic Machine learning,Basic Deep learning
 
 Cloud & Others: AWS, Prompt Engineering
 
-Frontend & Design: HTML, CSS, Bootstrap,Javascript, Streamlit, Canva
+Frontend & Design: HTML, CSS, Bootstrap,Javascript, Streamlit, Canva, UI/UX
 
 
 <!--
